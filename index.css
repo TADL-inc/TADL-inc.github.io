@@ -92,8 +92,8 @@ a, a:hover, a:focus {
     display: block;
 }
 #sidebar ul li a:hover {
-    color: #7386D5;
-    background: #fff;
+    color: #94eb98;
+    background: rgba(145, 253, 163, 0.445);
 }
 
 #sidebar ul li.active > a, a[aria-expanded="true"] {
@@ -117,7 +117,7 @@ a[data-toggle="collapse"] {
 ul ul a {
     font-size: 0.9em !important;
     padding-left: 30px !important;
-    background: #6d7fcc;
+    background: #94eb98;
 }
 
 ul.CTAs {
@@ -134,11 +134,11 @@ ul.CTAs a {
 
 a.download {
     background: #fff;
-    color: #7386D5;
+    color: #94eb98;
 }
 
 a.article, a.article:hover {
-    background: #6d7fcc !important;
+    background: #94eb98 !important;
     color: #fff !important;
 }
 
