@@ -98,7 +98,7 @@ a, a:hover, a:focus {
 
 #sidebar ul li.active > a, a[aria-expanded="true"] {
     color: #fff;
-    background: #6d7fcc;
+    background: #9ffc9c;
 }
 
 
@@ -134,7 +134,7 @@ ul.CTAs a {
 
 a.download {
     background: #fff;
-    color: #bbecbd;
+    color: #74ec78;
 }
 
 a.article, a.article:hover {
