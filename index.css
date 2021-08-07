@@ -10,7 +10,7 @@ body {
 }
 
 p {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Mc', sans-serif;
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.7em;
@@ -20,6 +20,10 @@ p {
 @font-face {
     font-family: Daydream;
     src: url(Daydream.tff);
+}
+@font-face {
+    font-family: Mc;
+    src: url(minecraft.ttf);
 }
 
 h1 {
